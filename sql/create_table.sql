@@ -1,6 +1,4 @@
-USE patch_automation;
-
-CREATE TABLE test_automation
+CREATE TABLE patch_automation.test_automation
 (
     id INT PRIMARY KEY AUTO_INCREMENT,
     first_name VARCHAR(50),
